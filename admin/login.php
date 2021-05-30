@@ -1,4 +1,5 @@
 <?php include "./templates/top.php"; ?>
+<link class="logoicon" rel="shortcut icon" href="favicon.ico">
 
 <?php include "./templates/navbar.php"; ?>
 

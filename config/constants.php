@@ -5,8 +5,6 @@ define('USER', 'root');
 define('PASSWORD', '');
 define('DATABASE_NAME', 'khanstore');
 
-define('CURRENCY', '€');
-
-
+define('CURRENCY', '₱');
 
 ?>
